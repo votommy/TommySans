@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="5.9510298mm"
+   height="9.9981499mm"
+   viewBox="0 0 5.9510295 9.9981499"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="6.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="10.248373"
+     inkscape:cx="35.029952"
+     inkscape:cy="24.930788"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-44.361965,-117.68382)">
+    <path
+       id="path5685"
+       style="color:#000000;fill:#000000;stroke-width:1;-inkscape-stroke:none"
+       d="m 47.326025,117.83136 c -0.37939,9.9e-4 -0.76123,0.0744 -1.12551,0.22531 -1.09763,0.45465 -1.81934,1.52191 -1.83555,2.70733 h -0.003 v 2.07377 0.0667 h 0.001 c 0.0354,1.6095 1.35563,2.90835 2.97347,2.90835 1.64003,0 2.97656,-1.33499 2.97656,-2.97502 0,-1.64002 -1.33653,-2.97656 -2.97656,-2.97656 -0.97258,0 -1.83763,0.47014 -2.38074,1.19476 v -0.25115 h 0.004 c 0,-0.96273 0.57712,-1.82886 1.46657,-2.19728 0.88944,-0.36842 1.91083,-0.16502 2.59158,0.51573 l 0.42219,-0.42219 c -0.42486,-0.42485 -0.95838,-0.69996 -1.52342,-0.81236 -0.19423,-0.0386 -0.39244,-0.0579 -0.59118,-0.0574 z m 0.0109,2.62981 c 1.31542,0 2.37504,1.06119 2.37504,2.3766 0,1.31542 -1.05962,2.37505 -2.37504,2.37505 -1.31542,0 -2.37505,-1.05963 -2.37505,-2.37505 0,-1.31541 1.05963,-2.3766 2.37505,-2.3766 z" />
+  </g>
+</svg>
