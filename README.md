@@ -2,7 +2,7 @@
 
 # TommySans
 - Sans-serif
-- Minimalist
+- Geometric, Modern, Minimalistic
 
 ## To do
 - Kerning and tracking
