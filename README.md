@@ -1,7 +1,7 @@
 ![preview](preview.png)
 
 # TommySans
-- San-serif
+- Sans-serif
 - Minimalist
 
 ## To do
