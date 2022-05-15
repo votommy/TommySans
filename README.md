@@ -3,7 +3,7 @@
 # TommySans
 - Sans-serif
 - Geometric, Modern, Minimalistic
-- Font-weight: normal, bold
+- Font-weight: normal, **bold**
 
 ## To do
 - Kerning and tracking
