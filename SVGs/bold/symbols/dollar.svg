@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="3.9568703mm"
+   height="10.295002mm"
+   viewBox="0 0 3.9568702 10.295002"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="dollar.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="13.859127"
+     inkscape:cx="26.985827"
+     inkscape:cy="17.42534"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-106.04818,-60.525227)">
+    <path
+       id="path31379"
+       style="color:#000000;fill:#000000;stroke-width:0.99999;-inkscape-stroke:none"
+       d="m 108.33218,60.526388 -0.19121,1.026822 h -0.11317 -0.003 c -1.07482,0 -1.97662,0.852117 -1.97662,1.915636 0,0.863415 0.59436,1.586045 1.39319,1.827794 l -0.35759,1.916695 h -0.78393 v 0.99994 h 0.59788 l -0.13796,0.738954 h 0.96428 l 0.13798,-0.738954 h 0.16433 c 1.0755,0 1.97869,-0.850054 1.97869,-1.914102 0,-0.880983 -0.61886,-1.616789 -1.4423,-1.843828 l 0.35451,-1.902196 h 0.85937 V 61.55321 h -0.67283 l 0.19121,-1.026822 z m -0.3819,2.029328 c 0,-8e-5 0.003,7.9e-5 0.004,0 l -0.32661,1.749769 c -0.34684,-0.142769 -0.57774,-0.466699 -0.57774,-0.836639 0,-0.475721 0.38137,-0.876565 0.90072,-0.91313 z m 0.42995,2.886657 c 0.37383,0.132106 0.62632,0.469768 0.62632,0.8568 0,0.492548 -0.40904,0.902891 -0.95652,0.913633 z" />
+  </g>
+</svg>

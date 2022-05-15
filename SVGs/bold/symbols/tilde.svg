@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="6.5463505mm"
+   height="10.295002mm"
+   viewBox="0 0 6.5463509 10.295001"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="tilde.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="13.859127"
+     inkscape:cx="26.985827"
+     inkscape:cy="17.42534"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-106.04818,-60.525227)">
+    <path
+       id="path31382"
+       style="color:#000000;fill:#000000;stroke-width:1;-inkscape-stroke:none"
+       d="m 107.85219,63.642929 c -0.59938,0.0032 -1.20401,0.255084 -1.80401,0.70694 v 1.046956 c 0.53197,-0.400606 1.37078,-0.855292 1.80504,-0.857303 0.43419,-0.0026 0.84479,0.114909 1.26506,0.511598 0.50297,0.474742 1.07331,0.786183 1.67275,0.783405 0.59959,-0.0029 1.20335,-0.254926 1.8035,-0.706913 l -0.003,-1.043861 c -0.53195,0.400606 -1.36666,0.850133 -1.80092,0.852143 -0.43418,0.0026 -0.84476,-0.16764 -1.26505,-0.564329 -0.50281,-0.474583 -1.07347,-0.731256 -1.67275,-0.728636 z" />
+  </g>
+</svg>
