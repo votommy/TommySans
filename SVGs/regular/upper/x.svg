@@ -2,19 +2,19 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="7.7829862mm"
+   width="6.8243961mm"
    height="9.9981499mm"
-   viewBox="0 0 7.7829856 9.9981499"
+   viewBox="0 0 6.8243961 9.9981499"
    version="1.1"
-   id="svg5"
-   sodipodi:docname="x.svg"
+   id="svg2195"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="x.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
-     id="namedview7"
+     id="namedview2197"
      pagecolor="#ffffff"
      bordercolor="#cccccc"
      borderopacity="1"
@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="10.248373"
-     inkscape:cx="35.029952"
-     inkscape:cy="24.930788"
+     inkscape:zoom="10.618967"
+     inkscape:cx="7.4866036"
+     inkscape:cy="17.092057"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="1912"
@@ -33,15 +33,15 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
-     id="defs2" />
+     id="defs2192" />
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-44.361965,-117.68382)">
+     transform="translate(-132.13142,-114.19958)">
     <path
-       id="path8402"
+       id="path8402-1"
        style="color:#000000;fill:#000000;stroke-width:0.999987;-inkscape-stroke:none"
-       d="m 46.066252,117.82836 -0.745691,10e-4 2.5585,3.36104 -3.517096,4.61935 0.746723,0.001 3.143478,-4.12998 3.145544,4.13205 0.747241,-5.3e-4 -3.519164,-4.62246 2.558499,-3.36103 -0.745691,-5.3e-4 -2.185913,2.87166 z" />
+       d="m 132.87712,114.34409 -0.74569,0.001 3.03857,3.992 -3.03857,3.99098 0.74724,5.1e-4 2.66495,-3.50108 2.66496,3.50108 0.74724,-5.1e-4 -3.03858,-3.99098 3.03858,-3.992 -0.7457,-0.001 -2.6665,3.50211 z" />
   </g>
 </svg>
