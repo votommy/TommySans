@@ -3,7 +3,8 @@
 # TommySans
 - Sans-serif
 - Geometric, Modern, Minimalistic
-- Font-weight: normal, **bold**
+- Font-weight (native): normal, **bold**
+- Font-weight (compatible): *italics*
 
 ## How to use
 For website, paste the following into your CSS:
