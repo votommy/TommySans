@@ -29,4 +29,4 @@ html, body {
 - Add more symbols
 
 ## Copyright
-Copyright © 2022, Tommy Vo | All rights reserved
+Copyright © 2024, Tommy Vo | All rights reserved
