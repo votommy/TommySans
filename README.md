@@ -4,7 +4,7 @@
 - Sans-serif
 - Geometric, Modern, Minimalistic
 - Font-weight (native): normal, **bold**
-- Font-weight (compatible): *italics*
+- Font-style (compatible): *italics*
 
 ## How to use
 For website, paste the following into your CSS:
@@ -29,4 +29,4 @@ html, body {
 - Add more symbols
 
 ## Copyright
-Copyright © 2024, Tommy Vo | All rights reserved
+Copyright © 2025, Tommy Vo | All rights reserved
